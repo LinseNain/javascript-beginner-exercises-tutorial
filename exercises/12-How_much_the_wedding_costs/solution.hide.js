@@ -1,4 +1,4 @@
-let guests = prompt('How many people are coming to your wedding?');
++let guests = prompt('How many people are coming to your wedding?');
 
 function getPrice(guests){
     let cost = 0;
